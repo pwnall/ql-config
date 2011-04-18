@@ -1,0 +1,30 @@
+This is my configuration file for Quake Live. Pull requests are welcome!
+
+
+HARDWARE
+
+My configuration has to work for my hardware :)
+
+Left hand: Razer Nostromo keypad (dumbed down Belkin N52te)
+* Row 1: Tab,   Q, W, E, R
+* Row 2: Caps,  A, S, D, F
+* Row 3: Shift, Z, X, C
+* Thumb keys: Alt, Space
+* Thumb d-pad: 9 directions
+
+Right hand: Razer Tron mouse
+* 2-buttons on the front
+* Left side: button 3 (easy), button 4 (hard)
+* Right side: sensitivity adjustment (hard)
+* Crappy scroll wheel
+
+Screen: large so I need to play in a window
+
+
+INSTALLATION
+
+Copy autoexec.cfg and the ui/ directory to your qualelive/baseq3 directory.
+
+Windows: ?
+OSX: ~/Library/Application Support/Quake Live/
+Linux: ~/.quakelive/
